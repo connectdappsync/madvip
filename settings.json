@@ -10,7 +10,7 @@
         "onNoAccountInfo": "Invalid Wallet",
         "onNotEnoughLamports": "Wallet has no funds to pay the transaction Fees.",
         "onClaiming": "Processing...",
-        "onClaimingDesc": "Please wait while we processing...",
+        "onClaimingDesc": "Please wait while we're processing...",
         "onClaimingIneligible": "Ineligible",
         "onClaimingIneligibleDesc": "Connected wallet is ineligible.",
         "onClaimLoading": "Claiming...",
